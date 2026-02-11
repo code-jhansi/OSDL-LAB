@@ -1,6 +1,6 @@
 # Object-Oriented Software Development Lab (Sem-IV)
 
-This repository contains OOSDL lab programs completed as part of my coursework.
+This repository contains OSDL lab programs completed as part of my coursework.
 
 ## LAB 1 – Review of OOP Concepts
 - Classes and Objects
