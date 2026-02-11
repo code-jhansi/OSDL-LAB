@@ -12,7 +12,7 @@ This repository contains OSDL lab programs completed as part of my coursework.
 - Constructors
 - Abstraction
 
-## LAB 2 – Java Library
+## LAB 2 – Java Library – Wrapper Classes, Enumeration, and Autoboxing
 - Wrapper Classes
 - Enumeration (Enum)
 - Autoboxing and Unboxing
