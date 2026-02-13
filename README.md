@@ -17,7 +17,7 @@ This repository contains OSDL lab programs completed as part of my coursework.
 - Autoboxing and Unboxing
 - Enum methods and constructors
 ## LAB 3 - Multithreaded Programming – Basics 
-• Thread creation using Thread class 
-• Thread creation using Runnable interface 
-• Thread lifecycle 
-• sleep(), join(), yield()
+- Thread creation using Thread class 
+- Thread creation using Runnable interface 
+- Thread lifecycle 
+- sleep(), join(), yield()
